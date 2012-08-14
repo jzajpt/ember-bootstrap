@@ -1,4 +1,4 @@
 ember-bootstrap
 ===============
 
-Repo was moved
+Repo was moved to https://github.com/emberjs-addons/ember-bootstrap
